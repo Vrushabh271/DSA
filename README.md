@@ -5,3 +5,4 @@
 
 ## Day 2 (06/07/26)
  - Sqrt(x) (Easy)
+ - divisor-game
