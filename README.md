@@ -6,4 +6,5 @@
 ## Day 2 (06/07/26)
  - Sqrt(x) (Easy)
  - divisor-game(Easy)
- - Armstrong (Easy)
+ - Armstrong (Medium)
+ - Counting Digits That Evenly Divide a number (Easy)
