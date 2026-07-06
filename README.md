@@ -4,6 +4,7 @@
  - Reverse Number(Medium)
 
 ## Day 2 (06/07/26)
+# some questions solve on Leetcode and some on vs code
  - Sqrt(x) (Easy)
  - divisor-game(Easy)
  - Armstrong (Medium)
