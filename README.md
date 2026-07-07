@@ -12,4 +12,4 @@
 
 ## Day 3 (07/07/26)
 
-- Perfect Number (Easy) solve on vs code
+- Perfect Number(Easy)
