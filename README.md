@@ -13,3 +13,4 @@
 ## Day 3 (07/07/26)
 
 - Perfect Number(Easy)
+- Print digits of a number in reverse order (Easy) solve on vs code
