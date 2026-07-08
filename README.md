@@ -14,3 +14,7 @@
 
 - Perfect Number(Easy)
 - Print digits of a number in reverse order (Easy) solve on vs code
+
+## Day 4 (08/07/26)
+
+- Sum Multiples (Easy)
