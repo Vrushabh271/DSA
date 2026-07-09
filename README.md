@@ -22,4 +22,4 @@
 - Smallest Even Multiple (Easy)
 
 ## Day 5 (09/07/26)
-
+- GCD (Easy) Solve on VS code but in brute force approach
