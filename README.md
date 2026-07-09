@@ -20,3 +20,6 @@
 - Sum Multiples (Easy)
 - Divisible and Non-divisible Sums Difference(Easy)
 - Smallest Even Multiple (Easy)
+
+## Day 5 (09/07/26)
+
