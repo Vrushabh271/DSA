@@ -24,3 +24,6 @@
 ## Day 5 (09/07/26)
 - GCD (Easy) Solve on VS code but in brute force approach
 - Three Divisors (Easy) beats 100% in Time
+
+## Day 6 (10/07/26)
+- GCD Best Solution (Enclidean Theorem) 
