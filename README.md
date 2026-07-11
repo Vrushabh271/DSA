@@ -1,4 +1,7 @@
 # DSA Journey 
+
+# WEEK 1:- 
+
 ## Day 1 (5/07/26)
  - Palindrome Number(Easy)
  - Reverse Number(Medium)
@@ -26,4 +29,7 @@
 - Three Divisors (Easy) beats 100% in Time
 
 ## Day 6 (10/07/26)
-- GCD Best Solution (Enclidean Theorem) 
+- GCD Best Solution (Enclidean Theorem)
+
+## Day 7 (11/07/26)
+- 
