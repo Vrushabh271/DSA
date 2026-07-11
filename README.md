@@ -2,7 +2,7 @@
 
 # WEEK 1:- 
 
-# The uploaded questions are basic practice questions and are not available on LeetCode.
+-The uploaded questions (solve on vs code) are basic practice questions and are not available on LeetCode.
 
 ## Day 1 (5/07/26)
  - Palindrome Number(Easy)
@@ -31,7 +31,7 @@
 - Three Divisors (Easy) beats 100% in Time
 
 ## Day 6 (10/07/26)
-- GCD Best Solution (Enclidean Theorem)
+- GCD Best Solution (Enclidean Theorem) (Solve on VS code)
 
 ## Day 7 (11/07/26)
-- 
+- LCM (Solve on VS code)
