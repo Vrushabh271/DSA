@@ -35,3 +35,4 @@
 
 ## Day 7 (11/07/26)
 - LCM (Solve on VS code)
+- Subtract the Product and Sum of Digits of an Integer (Easy)
