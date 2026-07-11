@@ -1,8 +1,9 @@
 # DSA Journey 
 
 # WEEK 1:- 
-       # Math Basics 
-       - Some questions are uploaded from file those are basic question not on leetcode.
+
+# The uploaded questions are basic practice questions and are not available on LeetCode.
+
 ## Day 1 (5/07/26)
  - Palindrome Number(Easy)
  - Reverse Number(Medium)
