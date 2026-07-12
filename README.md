@@ -42,3 +42,4 @@
 
 # Arrays -
 - Contains Duplicate(Easy)
+- Binary Search
