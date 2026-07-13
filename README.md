@@ -41,5 +41,9 @@
 # WEEK 2 :- 
 
 # Arrays -
+## Day 8(12/07/26)
 - Contains Duplicate(Easy)
 - Binary Search
+  
+## Day 8(12/07/26)
+- count-odd-numbers-in-an-interval-range(easy)
