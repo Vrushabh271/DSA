@@ -40,7 +40,7 @@
 
 # WEEK 2 :- 
 
-# Arrays -
+
 ## Day 8(12/07/26)
 - Contains Duplicate(Easy)
 - Binary Search
@@ -51,3 +51,6 @@
 ## Day 10(14/07/26)
 - Max SUM SUB Array (easy) Solve on vs code
 - Max SUM (medium) solve using kadane's algo
+
+## Day 11 (15/07/26)
+- GCD of Odd and Even Sums (Easy)
