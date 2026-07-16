@@ -54,3 +54,6 @@
 
 ## Day 11 (15/07/26)
 - GCD of Odd and Even Sums (Easy)
+
+## Day 12 (16/07/26)
+- count the digits that divide a number
