@@ -58,5 +58,5 @@
 ## Day 12 (16/07/26)
 - count the digits that divide a number
 
-## Day 13 (16/07/26)
+## Day 13 (17/07/26)
 -Find Numbers with Even Number of Digits
