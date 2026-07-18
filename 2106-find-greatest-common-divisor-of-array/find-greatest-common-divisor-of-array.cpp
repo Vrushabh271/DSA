@@ -14,6 +14,6 @@ public:
                 min = nums[i];
             }
         }
-        return gcd(min,max);
+        return __gcd(min,max);
     }
 };
