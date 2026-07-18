@@ -60,3 +60,6 @@
 
 ## Day 13 (17/07/26)
 -Find Numbers with Even Number of Digits
+
+## Day 14(18/07/26)
+-Find Greatest Common Divisor of Array(Easy)
