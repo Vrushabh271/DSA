@@ -63,3 +63,8 @@
 
 ## Day 14(18/07/26)
 -Find Greatest Common Divisor of Array(Easy)
+
+# WEEK 3:-
+
+## Day 15 (20/07/26)
+- A Number After a Double Reversal (Easy)
