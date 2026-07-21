@@ -68,3 +68,6 @@
 
 ## Day 15 (20/07/26)
 - A Number After a Double Reversal (Easy)
+
+## Day 16 (21/07/26)
+- Concatenation of Array (Easy)
