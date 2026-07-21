@@ -1,5 +1,7 @@
 # DSA Journey 
 
+# Basics of cpp 
+
 # WEEK 1:- 
 
 -The uploaded questions (solve on vs code) are basic practice questions and are not available on LeetCode.
