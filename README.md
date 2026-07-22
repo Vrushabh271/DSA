@@ -73,3 +73,7 @@
 
 ## Day 16 (21/07/26)
 - Concatenation of Array (Easy)
+
+## Day 17 (22/07/26)
+- sum of 2 int
+- Fizz - buzz
