@@ -80,3 +80,4 @@
 
 ## Day 18 (23/07/26)
 - Build-array-from-permutation
+- Final Value of Variable After Performing Operations
