@@ -77,3 +77,6 @@
 ## Day 17 (22/07/26)
 - sum of 2 int
 - Fizz - buzz
+
+## Day 18 (23/07/26)
+- Build-array-from-permutation
