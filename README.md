@@ -81,3 +81,6 @@
 ## Day 18 (23/07/26)
 - Build-array-from-permutation
 - Final Value of Variable After Performing Operations
+
+## Day 19(24/07/26)
+- How Many Numbers Are Smaller Than the Current Number
