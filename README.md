@@ -84,3 +84,6 @@
 
 ## Day 19(24/07/26)
 - How Many Numbers Are Smaller Than the Current Number
+
+## Day 20(25/07/26)
+-  Number of Good Pairs
