@@ -26,7 +26,7 @@
 
 - Sum Multiples (Easy)
 - Divisible and Non-divisible Sums Difference(Easy)
-- Smallest Even Multiple (Easy)
+
 
 ## Day 5 (09/07/26)
 - GCD (Easy) Solve on VS code but in brute force approach
@@ -87,3 +87,8 @@
 
 ## Day 20(25/07/26)
 -  Number of Good Pairs
+
+# WEEK 4:-
+
+## Day 21(26/07/26)
+- Smallest Even Multiple (Easy)
