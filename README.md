@@ -92,3 +92,6 @@
 
 ## Day 21(26/07/26)
 - Smallest Even Multiple (Easy)
+
+## Day 22(27/07/26)
+-Mirror-distance-of-an-integer
