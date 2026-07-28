@@ -95,3 +95,6 @@
 
 ## Day 22(27/07/26)
 -Mirror-distance-of-an-integer
+
+## Day 23(28/07/26)
+- Minimum element after replacement with digit sum
