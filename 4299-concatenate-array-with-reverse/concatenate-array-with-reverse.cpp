@@ -6,12 +6,11 @@ public:
         {
             v.push_back(nums[i]);        
         }
-
-        reverse(nums.begin(), nums.end());
-        for(int i=0;i<nums.size();i++)
+        for(int i = nums.size()-1;i>=0;i--)
         {
-            v.push_back(nums[i]);        
+           v.push_back(nums[i]); 
         }
+        
         return v;
     }
 };
