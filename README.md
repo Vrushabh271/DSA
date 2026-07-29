@@ -101,3 +101,4 @@
 
 ## Day 24(29/07/26)
 - concatenate-array-with-reverse
+- product_of_digit (solve on vs code)
