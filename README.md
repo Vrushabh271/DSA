@@ -98,3 +98,6 @@
 
 ## Day 23(28/07/26)
 - Minimum element after replacement with digit sum
+
+## Day 24(29/07/26)
+- concatenate-array-with-reverse
