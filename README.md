@@ -102,3 +102,6 @@
 ## Day 24(29/07/26)
 - concatenate-array-with-reverse
 - product_of_digit (solve on vs code)
+
+## Day 25(30/07/26)
+- number of steps to reduce a number to zero
