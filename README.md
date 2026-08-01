@@ -105,3 +105,6 @@
 
 ## Day 25(30/07/26)
 - number of steps to reduce a number to zero
+
+## Day 26(01/08/26)
+-kth digit(solve on vs code)
