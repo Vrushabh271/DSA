@@ -111,5 +111,5 @@
 
 # WEEK 5:-
 
-## Day 28(03/08/26)
+## Day 27(03/08/26)
 - Harshad Number
