@@ -108,3 +108,8 @@
 
 ## Day 26(01/08/26)
 -kth digit(solve on vs code)
+
+# WEEK 5:-
+
+## Day 28(03/08/26)
+- Harshad Number
