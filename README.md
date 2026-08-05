@@ -113,3 +113,5 @@
 
 ## Day 27(03/08/26)
 - Harshad Number
+## day 28(04/08/26)
+- Three Divisors (Easy) beats 100% in Time
